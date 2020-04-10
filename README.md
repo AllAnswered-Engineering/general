@@ -4,6 +4,6 @@ AllAnswered is an [all-in-one knowledge management system](https://www.allanswer
 
 We will use github to share some of our open source modules with broader developer community.
 
-To learn more about AllAnswered: https://www.allanswered.com/about/
-Any questions? https://www.allanswered.com/contact/
+- To learn more about AllAnswered: https://www.allanswered.com/about/
+- Any questions? https://www.allanswered.com/contact/
 
